@@ -13,7 +13,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 
-- 🎓 &nbsp; Studying Computer Science and Engineering at IIIT Vadodara and coding stuffs.
+- 🎓 &nbsp; Studying Computer Science and Engineering at Chittagong University of Engineering & Technology.
 
 - 🌱 &nbsp; Learning about Cloud Tech, Systems Design.
 
