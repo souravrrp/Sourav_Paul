@@ -1,11 +1,15 @@
 ### Hi there 👋 I'm Sourav Paul
 
 <h3>
-  <sup>
-    <h4>Developer who wants to benefit the world.</h4>
-  </sup>
+  [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://sahasourav17.github.io/)
+  [![Medium Badge](https://img.shields.io/badge/Medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://fahadulshadhin.medium.com/)
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sourav-saha17/)
   <a href="#"><img src="https://img.shields.io/badge/Resume-000000?style=flat-square&logo=notion&logoColor=white"/></a>
-  </h3>
+</h3>
+
+- 📝 As a passionate and self-learner technophiles team worker, drive for problem solving and innovative ideas. Always try to take challenges and grow strength to make positive contribution.
+- 📫 souravpaulcse@gmail.com
+<hr>
 
  👨🏻•💻 About Me
 
