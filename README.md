@@ -46,3 +46,6 @@
 
 
 ![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=shivam0110.shivam0110)
+![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=souravrrp.souravrrp)
+![Visitor Count](https://profile-counter.glitch.me/souravrrp/count.svg)
+
