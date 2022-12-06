@@ -5,7 +5,7 @@
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/souravrrp/)
   [![GMail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:souravpaulcse@gmail.com)
 <h3>
-  <a href="#"><img src="https://img.shields.io/badge/Resume-000000?style=flat-square&logo=notion&logoColor=white"/></a>
+  <a href="https://github.com/souravrrp/souravrrp/blob/main/Sourav%20Paul%20%40Singer%20BD%20Ltd.pdf"><img src="https://img.shields.io/badge/Resume-000000?style=flat-square&logo=notion&logoColor=white"/></a>
 </h3>
 
 - 📝 As a passionate and self-learner technophiles team worker, drive for problem solving and innovative ideas. Always try to take challenges and grow strength to make positive contribution.
