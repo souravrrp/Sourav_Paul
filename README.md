@@ -9,7 +9,6 @@
 </h3>
 
 - 📝 As a passionate and self-learner technophiles team worker, drive for problem solving and innovative ideas. Always try to take challenges and grow strength to make positive contribution.
-- 📫 souravpaulcse@gmail.com
 <hr>
 
  👨🏻•💻 About Me
