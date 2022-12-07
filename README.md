@@ -90,11 +90,10 @@
 ![UpWork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)
 ![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
 
-
 <hr>
 
+![GitHub](https://img.shields.io/github/followers/souravrrp?style=social)
 ![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=souravrrp.souravrrp)
-
 ![Profile Hit](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{souravrrp}1212%2Fhit-counter)
 
 
