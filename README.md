@@ -84,6 +84,9 @@
 
 
 ##
+[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=souravrrp&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+##
 #### Social 
 ![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)
 ![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
