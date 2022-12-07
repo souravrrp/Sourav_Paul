@@ -84,8 +84,8 @@
 
 
 ##
-[![Sourav's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=souravrrp&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
-[![Sourav's github streak](https://github-readme-streak-stats.herokuapp.com/?user=souravrrp&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![Sourav's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=souravrrp&theme=blue-green)](https://github.com/souravrrp)
+[![Sourav's github streak](https://github-readme-streak-stats.herokuapp.com/?user=souravrrp&theme=blue-green)](https://github.com/souravrrp)
 
 
 ##
