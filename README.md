@@ -7,7 +7,10 @@
 <h3>
   <a href="https://github.com/souravrrp/souravrrp/blob/main/Sourav%20Paul%20%40Singer%20BD%20Ltd.pdf"><img src="https://img.shields.io/badge/Resume-000000?style=flat-square&logo=notion&logoColor=white"/></a>
 </h3>
-
+<h3>
+  <a href="https://github.com/souravrrp/souravrrp/blob/main/Sourav%20Paul%20%40Singer%20BD%20Ltd.pdf"><img src="https://img.shields.io/badge/Resume-Download%20resume%20here-red"/></a>
+ </h3>
+  
 - :clipboard: As a passionate and self-learner technophiles team worker, drive for problem solving and innovative ideas. Always try to take challenges and grow strength to make positive contribution.
 <hr>
 
