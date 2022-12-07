@@ -13,17 +13,17 @@
 
  :octocat: About Me
 
-- :person_in_tuxedo: &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- :person_in_tuxedo: &nbsp; •	5+ Years’ Experience
 
-- 🎓 &nbsp; Studying Computer Science and Engineering at Chittagong University of Engineering & Technology.
+- ✍️ &nbsp; ERP Specialist
 
-- 🌱 &nbsp; Learning about Cloud Tech, Systems Design.
+- ✍️ &nbsp; Data Analyst 
 
-- ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
+- ✍️ &nbsp; Full Stack Developer
 
-- ✍️ &nbsp; As a passionate and self-learner technophiles team worker, drive for problem solving and innovative ideas.
+- ✍️ &nbsp; Enthusiastic Team Player
 
-- ✍️ &nbsp; Always try to take challenges and grow strength to make positive contribution.
+- ✍️ &nbsp; Passionate and Self learner
 
 ##
 :man_technologist: Tech Stack
