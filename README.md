@@ -13,7 +13,7 @@
 
  :octocat: About Me
 
-- :person_in_tuxedo: &nbsp; •	5+ Years’ Experience
+- ✍️ &nbsp; 5+ Years’ Experience
 
 - ✍️ &nbsp; ERP Specialist
 
