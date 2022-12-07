@@ -13,17 +13,17 @@
 
  :octocat: About Me
 
-- ✍️ &nbsp; 5+ Years’ Experience
+- :writing_hand:	 &nbsp; 5+ Years’ Experience
 
-- ✍️ &nbsp; ERP Specialist
+- :writing_hand:	 &nbsp; ERP Specialist
 
-- ✍️ &nbsp; Data Analyst 
+- :writing_hand:	 &nbsp; Data Analyst 
 
-- ✍️ &nbsp; Full Stack Developer
+- :writing_hand:	 &nbsp; Full Stack Developer
 
-- ✍️ &nbsp; Enthusiastic Team Player
+- :writing_hand:	 &nbsp; Enthusiastic Team Player
 
-- ✍️ &nbsp; Passionate and Self learner
+- :writing_hand:	 &nbsp; Passionate and Self learner
 
 ##
 :man_technologist: Tech Stack
