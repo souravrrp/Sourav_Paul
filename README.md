@@ -95,7 +95,7 @@
 
 ![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=souravrrp.souravrrp)
 
-![Profile Hit](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{souravrrp}1212%2FProfile-counter)
+![Profile Hit](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{souravrrp}1212%2Fhit-counter)
 
 
 
