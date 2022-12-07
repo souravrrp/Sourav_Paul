@@ -21,7 +21,11 @@
 
 - ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
 
+- ✍️ &nbsp; As a passionate and self-learner technophiles team worker, drive for problem solving and innovative ideas.
 
+- ✍️ &nbsp; Always try to take challenges and grow strength to make positive contribution.
+
+##
 :man_technologist: Tech Stack
 
 
@@ -70,8 +74,8 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 
-
-## Social 
+##
+#### Social 
 ![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)
 ![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
 ![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
