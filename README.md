@@ -90,10 +90,10 @@
 
 ##
 #### Social 
-![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)
-![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
-![UpWork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)
-![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
+![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=style=flat-square&logo=LeetCode&logoColor=black)
+![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=style=flat-square&logo=HackerRank&logoColor=white)
+![UpWork](https://img.shields.io/badge/UpWork-6FDA44?style=style=flat-square&logo=Upwork&logoColor=white)
+![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=style=flat-square&logo=facebook&logoColor=white)
 
 <hr>
 
