@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Sourav Paul
+## Hi there :wave:	 I'm Sourav Paul
 
   [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://souravrrp.github.io/)
   [![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/01749797777)
