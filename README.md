@@ -23,7 +23,6 @@
 
 - :writing_hand:	 &nbsp; Enthusiastic Team Player
 
-- :writing_hand:	 &nbsp; Passionate and Self learner
 
 ##
 :man_technologist: Tech Stack
