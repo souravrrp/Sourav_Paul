@@ -11,17 +11,17 @@
 - :clipboard: As a passionate and self-learner technophiles team worker, drive for problem solving and innovative ideas. Always try to take challenges and grow strength to make positive contribution.
 <hr>
 
- :octocat: About Me
+ :octocat: **About Me**
 
-- :writing_hand:	 &nbsp; 5+ Years’ Experience
+- 	 &nbsp; <em>5+ Years’ Experience</em>
 
-- :writing_hand:	 &nbsp; ERP Specialist
+- 	 &nbsp; <em>ERP Specialist</em>
 
-- :writing_hand:	 &nbsp; Data Analyst 
+- 	 &nbsp; <em>Data Analyst </em>
 
-- :writing_hand:	 &nbsp; Full Stack Developer
+- 	 &nbsp; <em>Full Stack Developer</em>
 
-- :writing_hand:	 &nbsp; Enthusiastic Team Player
+- 	 &nbsp; <em>Enthusiastic Team Player</em>
 
 
 
