@@ -48,15 +48,16 @@
   - **OS:** `Linux` • `Windows`
 
 
+##
 
-<!--##-->
 #### Social 
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/souravrrp/)
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/souravrrp)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/souravrrp/)
 <!--![UpWork](https://img.shields.io/badge/UpWork-6FDA44?style=flat-square&logo=Upwork&logoColor=white)-->
 
-<hr>
+
+##
 
 ![GitHub](https://img.shields.io/github/followers/souravrrp?style=social)
 ![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=souravrrp.souravrrp)
